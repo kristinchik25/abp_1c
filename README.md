@@ -94,3 +94,32 @@
 
 <img width="1431" height="426" alt="image" src="https://github.com/user-attachments/assets/0047f69d-dbd6-44c5-b9b2-791948f3f5dd" />
 
+# Бизнес-процессы
+Для возможности автоматического создания задач добавим новый объект "Бизнес-процесс". Свяжем с механизмом задач, чтобы задачи автоматически распределялись между сотрудниками. 
+
+<img width="642" height="605" alt="image" src="https://github.com/user-attachments/assets/9c546fb5-1584-45bb-8866-783aba70da42" />
+
+Карту маршрута можно нарисовать во вкладке "Прочее"
+
+<img width="1269" height="649" alt="image" src="https://github.com/user-attachments/assets/04f35a6c-e87a-4a8b-9321-efc978f82efa" />
+
+# Карта маршрута 
+Для примера нарисуем и заполним карту маршрута 
+
+<img width="1086" height="949" alt="image" src="https://github.com/user-attachments/assets/da07274d-17ee-42c5-bb40-0151e177fd6d" />
+
+<img width="811" height="800" alt="image" src="https://github.com/user-attachments/assets/a9958c27-6649-4236-8b1f-be37b2d6e574" />
+
+Проверим конфигурацию 
+
+<img width="1074" height="468" alt="image" src="https://github.com/user-attachments/assets/150bec53-fbd3-42f8-a089-092d147ba960" />
+
+Проведем все задачи процесса
+
+<img width="744" height="383" alt="image" src="https://github.com/user-attachments/assets/b981572d-c637-40f1-847f-5c7f7db8636c" />
+
+
+Бизнес-процесс завершен 
+
+<img width="1439" height="423" alt="image" src="https://github.com/user-attachments/assets/f37d1c4e-4dd0-49c4-b800-b5c90bdf337d" />
+
