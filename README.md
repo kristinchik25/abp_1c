@@ -1,6 +1,6 @@
 # abp_1c
 
-## Создание задач 
+# Создание задач 
 Создадим новую задачу в конфигураторе 
 <img width="893" height="733" alt="image" src="https://github.com/user-attachments/assets/fd3b57e9-5826-4aa0-b40e-3de4d3887a14" />
 
@@ -11,7 +11,7 @@
 
 <img width="1423" height="344" alt="image" src="https://github.com/user-attachments/assets/13209f3a-628f-4ea1-a961-1e9965ee53cb" />
 
-## Адресация задач
+# Адресация задач
 Создадим и наполним справочник "Сотрудники", чтобы показать фунционал распределения задач 
 
 <img width="1276" height="573" alt="image" src="https://github.com/user-attachments/assets/84b3f222-4da3-477c-b0a8-0be392d207b6" />
@@ -27,3 +27,22 @@
 
 
 <img width="1428" height="324" alt="image" src="https://github.com/user-attachments/assets/ca9bfcec-943b-4aa8-b24a-d3a9e3d3fac1" />
+
+# Текущие задачи активного пользователя 
+Для реализации функционала понадобятся: 
+- Пользователи
+- Роли
+- Параметр сеанса
+- Основной реквизит адресации
+- Список задач по исполнителю
+- Отбор невыполненных задач
+
+## Роли
+Добавим одну универсальную роль в соотвествии с заданием 
+
+<img width="995" height="630" alt="image" src="https://github.com/user-attachments/assets/33123f9f-2502-4ac5-83fd-ca3b85bf60bd" />
+
+Обновляем конфигурацию и переходим к пользователям
+
+## Пользователи 
+
