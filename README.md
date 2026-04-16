@@ -118,8 +118,60 @@
 
 <img width="744" height="383" alt="image" src="https://github.com/user-attachments/assets/b981572d-c637-40f1-847f-5c7f7db8636c" />
 
-
 Бизнес-процесс завершен 
 
 <img width="1439" height="423" alt="image" src="https://github.com/user-attachments/assets/f37d1c4e-4dd0-49c4-b800-b5c90bdf337d" />
 
+# Персональная адресация
+Необходимо настроить этот параметр, чтобы исполнитель задачи назначался автоматически, через двойное нажатие на элементы схемы, назначаем исполнителя
+
+<img width="380" height="769" alt="image" src="https://github.com/user-attachments/assets/8c5ed0b1-1e16-48ea-9232-d7b1011300af" />
+
+# Карта маршрута у пользователя 
+Дадим возможность пользователям отслеживать положение этапов бизнес-процессов, создадим основную форму для бизнес-процесса
+
+<img width="895" height="800" alt="image" src="https://github.com/user-attachments/assets/8b0b2f9d-fabf-49eb-9048-4d02e0aa95f4" />
+
+Настраиваем объект карта маршрута 
+
+<img width="821" height="908" alt="image" src="https://github.com/user-attachments/assets/2ccc4a66-ccc6-4ab4-a7a4-59caf8550a4d" />
+
+<img width="1279" height="618" alt="image" src="https://github.com/user-attachments/assets/a207a30d-1de8-48f0-b25b-54a575c892f2" />
+
+Для формы воспользуемся событием При создании на сервере 
+
+<img width="647" height="273" alt="image" src="https://github.com/user-attachments/assets/9241bcef-d350-4017-9e16-cb7d6bb1b389" />
+
+<img width="1264" height="612" alt="image" src="https://github.com/user-attachments/assets/4371595d-7887-4272-a599-cfe40ef3b7fb" />
+
+Вот как это выглядит в 1c прелприятие 
+
+ДОПИСАААААААТЬ ПУНКТ 8
+
+
+Заполняем программный код программным кодом 
+
+<img width="1265" height="610" alt="image" src="https://github.com/user-attachments/assets/f8822ff6-caeb-4156-a7a5-545ea464bbfb" />
+
+
+# Точка выбора варианта 
+Создаем перечисление "ВидыРабот"
+<img width="665" height="564" alt="image" src="https://github.com/user-attachments/assets/c26ae921-7c64-4212-93e3-84a473dd1774" />
+
+Добавляем реквизит в бизнес-процесс
+
+<img width="1035" height="722" alt="image" src="https://github.com/user-attachments/assets/a00aced8-1342-4d21-b306-87d69b220d84" />
+
+Отображаем поле на форме бизнес-процесса
+
+<img width="1307" height="805" alt="image" src="https://github.com/user-attachments/assets/23620fa3-d65e-45b0-938e-f03aba893295" />
+
+
+Открываем карту маршрута и изображаем на ней карту выбора
+
+<img width="708" height="670" alt="image" src="https://github.com/user-attachments/assets/98d290b5-490c-4edd-8fe5-9436546289a5" />
+
+
+ДОПИСАТЬ ПУНКТ 9 ТИП ПРУФ ЧТО ВСЕ РАБОТАЕТ 
+
+# Ролевая адресация 
