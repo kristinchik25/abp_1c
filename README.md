@@ -176,4 +176,44 @@
 
 # Ролевая адресация 
 Таблица ролей 
+| Фамилия    | Должность           | Подразделение      |
+|------------|---------------------|--------------------|
+| Кукурузин  | Мастер-приемщик     | Администрация      |
+| Данилов    | Механик             | Ремонтный цех      |
+| Зияев      | Маляр               | Покрасочный цех    |
 
+Создадим справочники "Подразделения" и "Должности"
+
+<img width="1356" height="649" alt="image" src="https://github.com/user-attachments/assets/6f206b54-5f9a-44c5-8c73-b1d47656a108" />
+
+<img width="1321" height="649" alt="image" src="https://github.com/user-attachments/assets/904ec3ce-74ae-40ae-86ac-1258040a3a2a" />
+
+Теперь приступим к созданию регистра адресации, настроим его
+
+<img width="626" height="640" alt="image" src="https://github.com/user-attachments/assets/90de9f2c-6295-405c-aa51-7708fa17caf3" />
+
+<img width="1388" height="550" alt="image" src="https://github.com/user-attachments/assets/6f5b3669-0de2-4d0b-a329-8e12f90d9745" />
+
+<img width="1405" height="551" alt="image" src="https://github.com/user-attachments/assets/99deea56-2390-4ca1-b137-82270cd662c2" />
+
+<img width="1394" height="552" alt="image" src="https://github.com/user-attachments/assets/f0d7aee3-bc5c-49ba-bc83-2589dd6413bc" />
+
+Регистр адресации готов,  теперь необходимо связать механизм Задач с Регистром сведений
+
+<img width="1407" height="622" alt="image" src="https://github.com/user-attachments/assets/4974f2d7-a7e1-433d-bb26-2bca281dd496" />
+
+<img width="1394" height="586" alt="image" src="https://github.com/user-attachments/assets/5f0eb145-1584-47c1-8700-690778fb59ef" />
+
+Теперь свяжем реквизиты адресации с измерениями регистра сведений 
+
+<img width="747" height="294" alt="image" src="https://github.com/user-attachments/assets/cbe64de5-470b-41d3-8e52-f6ba8b10f98e" />
+
+<img width="750" height="294" alt="image" src="https://github.com/user-attachments/assets/36e79f8b-632e-40cd-b48d-86eb6723620b" />
+
+<img width="761" height="300" alt="image" src="https://github.com/user-attachments/assets/d586d44b-96b9-43e7-945e-e29012ca8487" />
+
+Наконец заполняем регистр адресации 
+
+<img width="1076" height="417" alt="image" src="https://github.com/user-attachments/assets/96a9ee3d-7147-4241-a370-01949a37ff85" />
+
+Все задания выполнены верно и в полном объеме
