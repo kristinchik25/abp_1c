@@ -49,3 +49,8 @@
 
 <img width="905" height="746" alt="image" src="https://github.com/user-attachments/assets/0cf262ec-a05f-4912-9dd9-866cc979185f" />
 
+Вот как выглядит список пользователей после добавлений 
+
+<img width="838" height="399" alt="image" src="https://github.com/user-attachments/assets/9fd4e29b-6107-45c5-a8be-0504c1e3d154" />
+
+Перейдем к параметру сеанса. 
