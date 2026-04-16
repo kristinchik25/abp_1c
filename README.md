@@ -88,3 +88,9 @@
 Выносим настроенную форму на начальный экран пользователя 
 
 <img width="1590" height="586" alt="image" src="https://github.com/user-attachments/assets/2a07068e-c6aa-4de3-ad46-460bba7bd193" />
+
+
+Проверяем результат, все верно
+
+<img width="1431" height="426" alt="image" src="https://github.com/user-attachments/assets/0047f69d-dbd6-44c5-b9b2-791948f3f5dd" />
+
