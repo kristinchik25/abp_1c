@@ -144,10 +144,6 @@
 
 <img width="1264" height="612" alt="image" src="https://github.com/user-attachments/assets/4371595d-7887-4272-a599-cfe40ef3b7fb" />
 
-Вот как это выглядит в 1c прелприятие 
-
-ДОПИСАААААААТЬ ПУНКТ 8
-
 
 Заполняем программный код программным кодом 
 
@@ -172,7 +168,6 @@
 <img width="708" height="670" alt="image" src="https://github.com/user-attachments/assets/98d290b5-490c-4edd-8fe5-9436546289a5" />
 
 
-ДОПИСАТЬ ПУНКТ 9 ТИП ПРУФ ЧТО ВСЕ РАБОТАЕТ 
 
 # Ролевая адресация 
 Таблица ролей 
